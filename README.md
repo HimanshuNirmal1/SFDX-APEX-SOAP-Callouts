@@ -1,14 +1,11 @@
-# Salesforce DX Project: Next Steps
+# Salesforce DX Project: APEX SOAP CALLOUTS
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+-Generated an Apex classes using WSDL2Apex.
 
-## How Do You Plan to Deploy Your Changes?
+-Performed a callout to send data to an external service using SOAP: HEROKU
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+-Tested callouts by using mock callouts.
 
-## Configure Your Salesforce DX Project
-
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
 
 ## Read All About It
 
