@@ -1,13 +1,12 @@
 # Salesforce DX Project: APEX SOAP CALLOUTS
 
--Generated an Apex classes using WSDL2Apex.
+- Generated an Apex classes using WSDL2Apex.
 
--Performed a callout to send data to an external service using SOAP: HEROKU
+- Performed a callout to send data to an external service using SOAP: HEROKU
 
--Tested callouts by using mock callouts.
+- Tested callouts by using mock callouts.
 
--
--Path to the APEX classes: /force-app/main/default/classes/
+- Path to the APEX classes: /force-app/main/default/classes/
 
 
 ## Read All About It
