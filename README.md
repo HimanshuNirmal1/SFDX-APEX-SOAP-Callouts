@@ -6,6 +6,9 @@
 
 -Tested callouts by using mock callouts.
 
+-
+-Path to the APEX classes: /force-app/main/default/classes/
+
 
 ## Read All About It
 
